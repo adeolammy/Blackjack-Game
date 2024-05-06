@@ -55,3 +55,10 @@ button:hover {
 #sum-el {
     font-style: italic;
 }
+#inputFields >input{
+    border: 1px  solid black;
+    width : 30%;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: -5rem;
+}
